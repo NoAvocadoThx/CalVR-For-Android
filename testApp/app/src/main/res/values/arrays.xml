@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="toogleArr">
+        <item>Sample Step</item>
+        <item>Threshold</item>
+        <item>Brightness</item>
+    </string-array>
+
+    <string-array name="switchArr">
+        <item>Color Transfer</item>
+        <item>Lighting</item>
+        <item>Coarse</item>
+        <item>SimpleCube</item>
+        <item>Naive DCMI</item>
+        <item>Cutting</item>
+    </string-array>
+
+</resources>
